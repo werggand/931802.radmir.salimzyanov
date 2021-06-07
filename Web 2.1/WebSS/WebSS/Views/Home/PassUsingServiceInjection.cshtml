@@ -1,0 +1,50 @@
+﻿@using WebSS.Services
+
+@inject Pass pass
+@{
+    Layout = null;
+}
+<!doctype html>
+<html>
+<head>
+    <title>Home Page</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="~/css/StyleSheet.css" />
+</head>
+<body>
+    <header>
+        <p>Web</p>
+        <p><a href="/Home">Home</a></p>
+    </header>
+    <div class="main">
+        <h1>PassUsingServiceInjection</h1>
+        <p class="navbar-brand">
+            <b>Rand Value First: @pass.f</b>
+        </p>
+        <p>
+            <b>Rand Value Second: @pass.s</b>
+        </p>
+        <p>
+            <b>Add:</b>
+        </p>
+        <p> @pass.add()</p>
+        <p>
+            <b>Sub:</b>
+        </p>
+        <p> @pass.sub()</p>
+        <p>
+            <b>Mult:</b>
+        </p>
+        <p> @pass.mult()</p>
+        <p>
+            <b>Div:</b>
+        </p>
+        <p> @pass.div() </p>
+    </div>
+        <footer>
+            <hr />
+            <p>© @DateTime.Now.ToString("yyyy") - Web</p>
+        </footer>
+</body>
+</html>

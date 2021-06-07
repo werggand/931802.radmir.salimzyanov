@@ -1,0 +1,49 @@
+﻿@{
+    Layout = null;
+}
+
+<!doctype html>
+<html>
+<head>
+    <title>Home Page</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="~/css/StyleSheet.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/StyleSheet.css" />
+</head>
+<body>
+    <header>
+        <p>Web</p>
+        <p><a href="/Home">Home</a></p>
+    </header>
+    <div class="main">
+        <h1>PassUsingViewBag</h1>
+        <p class="navbar-brand">
+            <b>Rand Value First: @ViewBag.Rand.f</b>
+        </p>
+        <p>
+            <b>Rand Value Second: @ViewBag.Rand.s</b>
+        </p>
+        <p>
+            <b>Add:</b>
+        </p>
+        <p> @ViewBag.Rand.add()</p>
+        <p>
+            <b>Sub:</b>
+        </p>
+        <p> @ViewBag.Rand.sub()</p>
+        <p>
+            <b>Mult:</b>
+        </p>
+        <p> @ViewBag.Rand.mult()</p>
+        <p>
+            <b>Div:</b>
+        </p>
+        <p> @ViewBag.Rand.div() </p>
+    </div>
+    <footer>
+        <hr />
+        <p>© @DateTime.Now.ToString("yyyy") - Web</p>
+    </footer>
+</body>
+</html>

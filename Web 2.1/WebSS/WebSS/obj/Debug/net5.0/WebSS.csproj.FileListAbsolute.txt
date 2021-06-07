@@ -1,0 +1,248 @@
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.csprojAssemblyReference.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.AssemblyInfoInputs.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.AssemblyInfo.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.csproj.CoreCompileInputs.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.RazorAssemblyInfo.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.RazorAssemblyInfo.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\appsettings.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\WebSS.exe
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\WebSS.deps.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\WebSS.runtimeconfig.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\WebSS.runtimeconfig.dev.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\WebSS.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\ref\WebSS.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\WebSS.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\WebSS.Views.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\WebSS.Views.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\staticwebassets\WebSS.StaticWebAssets.Manifest.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\staticwebassets\WebSS.StaticWebAssets.xml
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\scopedcss\bundle\WebSS.styles.css
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.TagHelpers.input.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.TagHelpers.output.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.RazorCoreGenerate.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.RazorTargetAssemblyInfo.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.RazorTargetAssemblyInfo.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.Views.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\ref\WebSS.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.genruntimeconfig.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\WebSS.csproj.CopyComplete
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\Razor\Views\Home\PassUsingModel.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\Razor\Views\Home\PassUsingViewBag.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\Razor\Views\Home\PassUsingViewData.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\obj\Debug\net5.0\Razor\Views\Home\PassUsingServiceInjection.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\web\WebSS\WebSS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\appsettings.json
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\WebSS.exe
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\WebSS.deps.json
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\WebSS.runtimeconfig.json
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\WebSS.runtimeconfig.dev.json
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\WebSS.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\ref\WebSS.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\WebSS.pdb
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\WebSS.Views.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\WebSS.Views.pdb
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.csprojAssemblyReference.cache
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.AssemblyInfoInputs.cache
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.AssemblyInfo.cs
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.csproj.CoreCompileInputs.cache
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.RazorAssemblyInfo.cache
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.RazorAssemblyInfo.cs
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\staticwebassets\WebSS.StaticWebAssets.Manifest.cache
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\staticwebassets\WebSS.StaticWebAssets.xml
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\scopedcss\bundle\WebSS.styles.css
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.TagHelpers.input.cache
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.TagHelpers.output.cache
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.RazorCoreGenerate.cache
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\Razor\Views\Home\PassUsingModel.cshtml.g.cs
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\Razor\Views\Home\PassUsingServiceInjection.cshtml.g.cs
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\Razor\Views\Home\PassUsingViewBag.cshtml.g.cs
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\Razor\Views\Home\PassUsingViewData.cshtml.g.cs
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.RazorTargetAssemblyInfo.cache
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.RazorTargetAssemblyInfo.cs
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.Views.pdb
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.csproj.CopyComplete
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\ref\WebSS.dll
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.pdb
+C:\Users\werggand\Desktop\Web-Random-main\WebSS\WebSS\obj\Debug\net5.0\WebSS.genruntimeconfig.cache

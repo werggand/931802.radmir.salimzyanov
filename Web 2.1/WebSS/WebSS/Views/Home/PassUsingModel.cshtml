@@ -1,0 +1,50 @@
+﻿@model WebSS.Models.PassUsingModel
+
+@{
+    Layout = null;
+}
+
+<!doctype html>
+<html>
+<head>
+    <title>Home Page</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="~/css/StyleSheet.css" />
+</head>
+<body>
+    <header>
+        <p>Web</p>
+        <p><a href="/Home">Home</a></p>
+    </header>
+    <div class="main">
+        <h1>PassUsingModel</h1>
+        <p>
+            <b>Rand Value First: @Model.FirstRand</b>
+        </p>
+        <p>
+            <b>Rand Value Second: @Model.SecondRand</b>
+        </p>
+        <p>
+            <b>Add:</b>
+        </p>
+        <p> @Model.add()</p>
+        <p>
+            <b>Sub:</b>
+        </p>
+        <p> @Model.sub()</p>
+        <p>
+            <b>Mult:</b>
+        </p>
+        <p> @Model.mult()</p>
+        <p>
+            <b>Div:</b>
+        </p>
+        <p> @Model.div()</p>
+        </div>
+        <footer>
+            <hr />
+            <p>© @DateTime.Now.ToString("yyyy") - Web</p>
+        </footer>
+</body>
+</html>

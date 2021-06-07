@@ -1,0 +1,32 @@
+﻿@{
+    Layout = null;
+}
+<!doctype html>
+<html>
+<head>
+    <title>Home Page - Web</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="~/css/StyleSheet.css" />
+</head>
+
+<body>
+    <header>
+        <p>Web</p>
+        <p><a href="/Home">Home</a></p>
+    </header>
+    <div class="main">
+        <h1>Calc Service Demonstration</h1>
+    <ul>
+        <li><a href="/Home/PassUsingModel">Using Model Calc</a></li>
+        <li><a href="/Home/PassUsingViewData">Using ViewData Calc</a></li>
+        <li><a href="/Home/PassUsingViewBag">Using ViewBag Calc</a></li>
+        <li><a href="/Home/PassUsingServiceInjection">Using Service Injection Calc</a></li>
+    </ul>
+    </div>
+    <footer>
+        <hr />
+        <p>© @DateTime.Now.ToString("yyyy") - Web</p>
+    </footer>
+</body>
+</html>
